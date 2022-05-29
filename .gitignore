@@ -2,4 +2,7 @@
 *.py
 *.cpp
 
+!important.cpp
+
+!c*.cpp
 
