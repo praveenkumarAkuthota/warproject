@@ -1,6 +1,5 @@
 *.java
 *.py
-*.cpp
 
 !important.cpp
 
